@@ -1,0 +1,26 @@
+# API keys
+.env
+
+# ChromaDB vector store (too large for GitHub)
+data/vectorstore/
+data/pdfs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Anaconda / virtual env
+.conda/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
